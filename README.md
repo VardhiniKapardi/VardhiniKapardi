@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VardhiniKapardi
 - 👀 I’m interested in Biomedical Signal and Image Processing.
-- 🌱 I’m currently learning coding using Python programming. 
+- 🌱 I’m currently learning coding using OCTAVE programming. 
 - 📫 How to reach me: vardhinikapardi@gmail.com 
 
 <!---
